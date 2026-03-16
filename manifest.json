@@ -1,0 +1,25 @@
+{
+  "name": "CNA-Network",
+  "short_name": "CNA",
+  "description": "Cosmos New Age — Cosmic a void",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#04060c",
+  "theme_color": "#04060c",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
